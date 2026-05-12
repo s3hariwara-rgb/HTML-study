@@ -1,0 +1,23 @@
+body {
+  background-color: brown;
+}
+
+h1 {
+  color: blue;
+  background-color: blueviolet;
+}
+
+p {
+  color: aqua;
+  background-color: black;
+  font-size: 16px;
+}
+
+.aiueo {
+  background-color: aquamarine;
+}
+
+h1 {
+  border: 2px solid red;
+  border-radius: 16px;
+}
